@@ -1,0 +1,4 @@
+Host dbvm
+Hostname cs3319.gual.csd.uwo.ca
+User vm041
+IdentityFile ~/.ssh/cs3319-vm041.pem
